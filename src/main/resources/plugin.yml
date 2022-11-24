@@ -1,0 +1,5 @@
+name: fasti-math
+version: 1.0
+api-version: 1.13
+author: fasti
+main: pl.fasti.math.MathPlugin
